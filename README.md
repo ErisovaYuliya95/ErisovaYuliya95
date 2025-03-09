@@ -12,7 +12,10 @@
 - [Telegram-канала](https://t.me/ku_QA)
 
 ## 🛠 Языки и инструменты:
-- HTML ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png) и CSS ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
+- HTML
+  <img src="[/shared-assets/images/examples/grapefruit-slice.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png)"
+  alt="HTML" width="40" />
+- ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png) и CSS ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
 - DevTools
 - JavaScript
 
