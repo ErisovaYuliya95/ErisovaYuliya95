@@ -10,6 +10,9 @@
 - [Резюме на hh.ru](https://orenburg.hh.ru/resume/306f62e5ff0c8d7b1b0039ed1f32704f426261)
 - [Telegram](@juliya_niki)
 - [Telegram-канала](https://t.me/ku_QA)
+
+## Языки и инструменты:
+![HTML и CSS](https://www.google.com/url?sa=i&url=https%3A%2F%2Fyounglinux.info%2Fhtmlcss%2Fintro&psig=AOvVaw3G_mt-7rz50ZUcrlhaOMC1&ust=1741589631902000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDT0Y-1_IsDFQAAAAAdAAAAABAE)
 <!--
 **ErisovaYuliya95/ErisovaYuliya95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
