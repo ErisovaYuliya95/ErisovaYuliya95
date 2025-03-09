@@ -21,6 +21,7 @@
 - SOAP UI
 
 - JMeter
+- Charles Proxy
 
 - Qase.io
 - Sitechko
