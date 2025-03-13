@@ -8,7 +8,7 @@
 В 2024 году работала в [ЯндексКрауд](https://crowd.yandex.ru/) на должности «Младший специалист 2 категории». В данный момент прохожу стажировку в [5D HUB](https://5dhub.tech/) и участвую в проектах [CrowdTesting](https://crowdtesting.ru/).
 
 ## 🤝 Связаться со мной:
-- [Резюме на hh.ru](https://orenburg.hh.ru/resume/306f62e5ff0c8d7b1b0039ed1f32704f426261)
+- [Резюме на hh.ru](https://orenburg.hh.ru/applicant/resumes/view?resume=da3e2c70ff0e8e09670039ed1f597267496a44)
 - [Telegram](@juliya_niki)
 - [Telegram-канала](https://t.me/ku_QA)
 
